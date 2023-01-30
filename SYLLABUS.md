@@ -37,10 +37,10 @@ This course will be entirely remote, taking place in our virtual classroom on Ga
 
 ## Class communications
 
--   I'll try to respond to your questions within 12 hours, Monday through Friday. 
--   [Slack](https://fundamentalsofdata.slack.com) is the best way to communicate in this course.
--   During class, we will gather on [Gather](https://gather.town/app/cX35zyMPlqa6p7gE/dataclassroom). This is also where office hours take place.
--   You're always welcome to direct message me on Slack if you need to address a personal concern.
+- I'll try to respond to your questions within 12 hours, Monday through Friday. 
+- [Slack](https://fundamentalsofdata.slack.com) is the best way to communicate in this course.
+- During class, we will gather on [Gather](https://gather.town). This is also where office hours take place.
+- You're always welcome to direct message me on Slack if you need to address a personal concern.
 
 ## Importance of diversity & inclusion
 
@@ -76,7 +76,7 @@ Grading for individual assignments is based on the quality of the finished work:
 | 15        | Preparedness and participation          |
 | 15        | Homework and pre-class learning modules |
 | 20        | Table assignment                        |
-| 40        | Data visualization final project                        | 
+| 40        | Data visualization final project                        |
 
 ## Course materials
 
