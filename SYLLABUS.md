@@ -1,8 +1,8 @@
 # Web development for journalists
 
-JOUR 73361-01, Spring 2023
-Tuesdays 6:00-8:50pm on gather.town
-Nikhil Sonnad (nikhil.sonnad@journalism.cuny.edu)
+- JOUR 73361-01, Spring 2023
+- Tuesdays 6:00-8:50pm on gather.town
+- Nikhil Sonnad (nikhil.sonnad@journalism.cuny.edu)
 
 _Note: This syllabus is a dynamic document and will change as the semester goes on._
 
