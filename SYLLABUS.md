@@ -1,5 +1,11 @@
 # Web development for journalists
 
+JOUR 73361-01, Spring 2023
+Tuesdays 6:00-8:50pm on gather.town
+Nikhil Sonnad (nikhil.sonnad@journalism.cuny.edu)
+
+_Note: This syllabus is a dynamic document and will change as the semester goes on._
+
 ## Course description
 
 I apologize if the title of this course makes it sound a little boring. It's because the topic here is a bit hard to pin down. What we will be learning encompasses data analysis, data visualization, reporting with data, and writing code. But throughout all of that the medium and the message will be the same. The medium being the most all-powerful and ubiqitous of them all (i.e. the web). The message, important and interesting truths relevant to the public interest, stated as clearly and creatively as possible (i.e. journalism).
