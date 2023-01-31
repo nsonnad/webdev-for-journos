@@ -25,7 +25,7 @@ with me (Nikhil)
 # class logistics
 
 - **Gather**: class, office hours
-- **Slack**: contact me, discuss and share stuff with classmates, access documents and links I share with class
+- **Slack**: contact me, discuss and share with classmates, access class documents and links
 - **Github**: submit code/assignments
 - Important that you are set up with all of these
 
@@ -117,7 +117,9 @@ Basically, writing code that runs in web browsers. And to do that we just need t
 3. [Unreturned Remains](https://projects.propublica.org/repatriation-nagpra-database/)
 4. [Gerrymandering Mini-Golf](https://www.washingtonpost.com/politics/interactive/2022/redistricting-mini-golf/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWJpZCI6IjIwMDAxMTk4IiwicmVhc29uIjoiZ2lmdCIsIm5iZiI6MTY3MjI1NzU1MSwiaXNzIjoic3Vic2NyaXB0aW9ucyIsImV4cCI6MTY3MzQ2NzE1MSwiaWF0IjoxNjcyMjU3NTUxLCJqdGkiOiJjOTY4OTNhNi1lMGUxLTQzZmMtYWNiMS0zNTA1NjMyNmI5ZjciLCJ1cmwiOiJodHRwczovL3d3dy53YXNoaW5ndG9ucG9zdC5jb20vcG9saXRpY3MvaW50ZXJhY3RpdmUvMjAyMi9yZWRpc3RyaWN0aW5nLW1pbmktZ29sZi8ifQ.Z8708MxLnvviHTsqiBYBQj_NbIcEwF0Isgfem-k2SHY&itid=gfta)
 
-Each person will read one, reflect on it, interact with it etc, and present it to the class.
+Each person will read one, reflect, interact, take notes etc, and present it to the class.
+
+([randomizer](https://www.randomlists.com/team-generator))
 
 ---
 
@@ -133,8 +135,14 @@ Some questions to consider:
 - How does it make use of data and/or data visualization?
 - What was your overall impression of the piece?
 
+(I'll keep track of our collective answers)
+
 ---
 
 # examples discussion
+
+---
+
+# next week's homework
 
 ---
