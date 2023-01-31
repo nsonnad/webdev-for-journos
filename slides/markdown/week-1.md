@@ -31,6 +31,18 @@ with me (Nikhil)
 
 ---
 
+# tour
+
+- Gather classroom
+- Github, e.g [Class Github page](https://github.com/nsonnad/webdev-for-journos)
+- Slack?
+
+---
+
+questions?
+
+---
+
 # what we're going to learn
 
 ---
