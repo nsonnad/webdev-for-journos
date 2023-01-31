@@ -101,7 +101,7 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ### week 1 – Intros
 
-##### class outcomes
+#### Class outcomes
 
 - Introductions
 - Review syllabus and discuss course goals, questions, expectations
@@ -109,21 +109,21 @@ Grading for individual assignments is based on the quality of the finished work:
 - What is the connection between web development and journalism?
 - Homework: What it is and how to get the most out of it
 
-##### Class Prep
+#### Class prep
 
 - Read the syllabus!
 
 
 ### week 2 – Setting up
 
-##### class outcomes
+#### Class outcomes
 
 - What a code-oriented computer needs: setting up VSCode, GitHub, multiple browsers
 - HTML/CSS review: the structure of websites
 - Github tutorial
 - HTML practice
 
-##### Class Prep
+#### Class prep
 
 - Homework: MDN – [Dealing with Files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files)
 - Homework: MDN – [HTML Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
@@ -131,37 +131,37 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ### week 3 – CSS and what it's good for
 
-##### class outcomes
+#### Class outcomes
 
 - Understanding how CSS works
 - Why we like and want CSS
 - The importance of CSS selectors
 
-##### Class Prep
+#### Class prep
 
 - Homework: MDN – [CSS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics)
 
 
 ### week 4 – Intro to programming (via JavaScript)
 
-##### class outcomes
+#### Class outcomes
 
 - Using JavaScript to demonstrate core programming concepts
 - Using the browser console to test code
 
-##### Class Prep
+#### Class prep
 
 - Homework: MDN – [JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 
 
 ### week 5 – What exactly is "data"?
 
-##### Class outcomes
+#### Class outcomes
 
 - Understanding what data means to JavaScript and programming in general
 - Practice working with data in JavaScript
 
-##### Class Prep
+#### Class prep
 
 - freeCodeCamp – [Store Multiple Values in one Variable using JavaScript Arrays](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/store-multiple-values-in-one-variable-using-javascript-arrays)
 - freeCodeCamp – [Nest one Array within Another Array](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/nest-one-array-within-another-array)
@@ -173,13 +173,13 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ### week 6 – Extending JavaScript
 
-##### class outcomes
+#### Class outcomes
 
 - Learning how to use "libraries" to do even more with JavaScript
 - Expanding our understanding of JavaScript "data"
 - Working with real-world data
 
-##### Class Prep
+#### Class prep
 
 - freeCodeCamp – [Build JavaScript Objects](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/build-javascript-objects)
 - freeCodeCamp – [Accessing Object Properties with Dot Notation](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/accessing-object-properties-with-dot-notation)
@@ -193,12 +193,12 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ### week 7 – Data-driven documents
 
-##### class outcomes
+#### Class outcomes
 
 - Using the JavaScript library d3 to generate webpage content from data
 - Understanding how JavaScript can turn data into documents
 
-##### Class Prep
+#### Class prep
 
 - freeCodeCamp – [Add Document Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-document-elements-with-d3)
 - freeCodeCamp – [Select a Group of Elements with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/select-a-group-of-elements-with-d3)
@@ -210,24 +210,24 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ### week 8 – Table assignment workshop
 
-##### class outcomes
+#### Class outcomes
 
 - Work on our first project!
 
-##### Class Prep
+#### Class prep
 
 - Prepare data for your assignment
 
 
 ### week 9 – Intro: Visualizing data on the web
 
-##### class outcomes
+#### Class outcomes
 
 - Intro to core data visualization concepts
 - SVG, our new best friend
 - How d3 enables bespoke visualization
 
-##### Class Prep
+#### Class prep
 
 - Assignment 1 due
 
@@ -235,43 +235,43 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ### week 10
 
-##### class outcomes
+#### Class outcomes
 
-##### Class Prep
+#### Class prep
 
 
 ### week 11
 
-##### class outcomes
+#### Class outcomes
 
-##### Class Prep
+#### Class prep
 
 
 ### week 12
 
-##### class outcomes
+#### Class outcomes
 
-##### Class Prep
+#### Class prep
 
 
 ### week 13
 
-##### class outcomes
+#### Class outcomes
 
-##### Class Prep
+#### Class prep
 
 
 ### week 14
 
-##### class outcomes
+#### Class outcomes
 
-##### Class Prep
+#### Class prep
 
 
 ### week 15
 
-##### class outcomes
+#### Class outcomes
 
-##### Class Prep
+#### Class prep
 
 - Final assignment due
