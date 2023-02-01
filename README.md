@@ -1,6 +1,6 @@
 # Web Development for Journalists
 
-This is all info relevant to my Spring 2023 class at CUNY Journalism School, which I'm calling Web Development for Journalists. Kind of boring but makes the point clearly I think.
+All info relevant to my Spring 2023 class at CUNY Journalism School, which I'm calling Web Development for Journalists~
 
 Anyway, [here's the syllabus](SYLLABUS.md).
 
