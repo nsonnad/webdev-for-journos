@@ -273,11 +273,9 @@ When you've settled on one:
 
 ---
 
-## Understand that HTML elements are supposed to not only contain, but also
-_describe_ our content
+## Understand that HTML elements are supposed to not only contain, but also _describe_ our content
 
-For our purposes down the road, it will be important that this description is
-intuitive
+For our purposes down the road, it will be important that this description is intuitive
 
 ---
 
@@ -295,8 +293,81 @@ Further reading: [freeCodeCamp: Semantic HTML5 Elements Explained](https://www.f
 
 ---
 
+## Ok! Last thing we're going to learn for today: Git and Github
 
+---
 
-- Git and Github and Github Desktop
-- Semantic HTML
-- VSCode tour and tips
+## What is git? Why do we care about it?
+
+- "Version control"
+- Being intentional about changes to code
+- Being able to go back to earlier versions
+
+---
+
+## Git concepts
+
+#### Basics
+
+- changes
+- commits
+- push
+- clone
+
+#### Advanced?
+
+- branches
+- pull
+- merge
+
+---
+
+## So what is Git *Hub*?
+
+---
+
+## Download [Github Desktop](https://desktop.github.com/)
+
+---
+
+## Tour of Github Desktop
+
+- Clone your homework project
+- Open in VSCode
+- Make changes
+- Commit changes (with informative message)
+- Commit history
+
+---
+
+## Exercise!
+
+Imagine your little test page is a bit more like a full-blown article, blog
+post, etc.
+
+---
+
+## Todo:
+
+1. Add the following HTML elements (along with any extra content needed for them):
+    - `<header>`
+    - `<footer>`
+    - `<figure>` + `<figcaption>` instead of just `<img>`
+    - `<article>`
+    - `<section>`
+2. Validate your code with HTMLHint in VSCode
+3. If it looks good, commit and push to GitHub repo
+4. Share the GitHub link to that commit in Slack
+
+---
+
+## Next week's homework
+
+- CSS theory and review
+- Submission: Same deal as last week, except please send a link to the **commit**, not just the repo
+
+---
+
+## That's it!
+
+---
