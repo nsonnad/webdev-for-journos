@@ -343,13 +343,14 @@ Further reading: [freeCodeCamp: Semantic HTML5 Elements Explained](https://www.f
 ## Exercise!
 
 Imagine your little test page is a bit more like a full-blown article, blog
-post, etc.
+post, etc, including a table with some data.
 
 ---
 
 ## Todo:
 
 1. Add the following HTML elements (along with any extra content needed for them):
+    - `<table>` (you might need to look this one up)
     - `<header>`
     - `<footer>`
     - `<figure>` + `<figcaption>` instead of just `<img>`
