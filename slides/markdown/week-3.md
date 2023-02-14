@@ -8,8 +8,20 @@ Understanding CSS and what it does for us
 
 - How a web page "looks" overall
   - Colors, fonts, font sizes, spacing
-  - Importantly also, page layout
+  - Page layout
 - Has nothing to do with the actual content of the page
+
+---
+
+# Questions on homework?
+
+---
+
+# Some fundamental CSS concepts we're going to discuss
+
+1. selectors and properties
+2. "responsive" design (mobile-first)
+3. layouts
 
 ---
 
@@ -43,6 +55,17 @@ selector {
 
 ---
 
+# Basic first CSS to apply
+
+```css
+html {
+  max-width: 80ch;
+  margin: 0 auto;
+}
+```
+
+---
+
 # Select multiple elements using commas
 
 ```css
@@ -61,7 +84,7 @@ h1, h2, h3, h4 {
 }
 
 #main-logo {
-  fnt-size: 40px;
+  font-size: 40px;
 }
 ```
 
@@ -128,39 +151,97 @@ Array.from(elements).forEach(function(element) {
 
 ---
 
-# Variables in general and in CSS
+# CSS Properties
 
-Keep things organized, makes changes clearer and quicker
+Let's list some!
 
 ---
 
-# Variables
+# Quick note on colors
+
+Colors can be represented in a few ways:
+
+- hexadecimal value (`#0558ff`)
+- red, blue, green, alpha (`rgba(5, 88, 255, 1)`)
+- hue, saturation, lightness (`hsla(220, 100%, 51%, 1)`)
+
+Recommended: [HSL Color Picker](https://hslpicker.com/)
+
+---
+
+# Any of these work fine
+
+```css
+h1 {
+  color: rgba(41, 0, 15, 0.9);
+}
+
+.byline {
+  color: #ff2e7b;
+}
+```
+
+---
+
+# Variables (in general and in CSS specifically)
+
+---
+
+# CSS variable syntax
 
 ```css
 :root {
-  --color-background: papayawhip;
-  --color-text: darkgrey;
-  --color-accent-1: purple;
-  --color-accent-2: lightblue;
+  --font-sans: Arial,Helvetica Neue,Helvetica,sans-serif;
 }
 
 body {
-  background-color: var(--color-background);
+  font-family: var(--font-sans);
+}
+```
+
+---
+
+# The variable is just the "value", we give it the "property"
+
+---
+
+# CSS variables example: color scheme
+
+```css
+:root {
+    --color-background: papayawhip;
+    --color-text: #1c1c1c;
+    --color-accent-1: #ac4dc7;
+    --color-accent-2: #309775;
+}
+
+body {
+    background-color: var(--color-background);
+}
+
+h1 {
+    color: var(--color-accent-2);
 }
 
 p {
-  color: var(--color-text);
+    color: var(--color-text);
 }
 
 a {
-  color: var(--color-accent-1);
+    color: var(--color-accent-1);
 }
 
 blockquote {
-  color: var(--color-accent-2);
-  border: 1px solid var(--color-accent-1);
+    border-left: 5px solid var(--color-accent-1);
 }
 ```
+
+---
+
+# Why do this?
+
+- The DRY principle: Don't Repeat Yourself
+- Keep code organized
 
 ---
 
@@ -223,11 +304,11 @@ For inspo: https://coolors.co/palettes/trending
 
 Let's make our page look better and mobile-friendly. Add the following:
 
+- apply my starting CSS
 - byline
 - blockquote
 - style your table to make it look nicer
 - use your color scheme
-- center your content on the page (`margin: 0 auto;`)
 - start with mobile first, then scale up
 
 ---

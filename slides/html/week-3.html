@@ -19,55 +19,74 @@
 <li>How a web page &quot;looks&quot; overall
 <ul>
 <li>Colors, fonts, font sizes, spacing</li>
-<li>Importantly also, page layout</li>
+<li>Page layout</li>
 </ul>
 </li>
 <li>Has nothing to do with the actual content of the page</li>
 </ul>
 </section>
 </foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3">
+<h1>Questions on homework?</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4">
+<h1>Some fundamental CSS concepts we're going to discuss</h1>
+<ol>
+<li>selectors and properties</li>
+<li>&quot;responsive&quot; design (mobile-first)</li>
+<li>layouts</li>
+</ol>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5">
 <h1>The basic structure of CSS is always the same</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css">selector {
   property: value;
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6">
 <h1>For example</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-tag">body</span> {
   <span class="hljs-attribute">background-color</span>: black;
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7">
 <h1>So what is a &quot;selector&quot;?</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css">selector {
   property: value;
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8">
+<h1>Basic first CSS to apply</h1>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-tag">html</span> {
+  <span class="hljs-attribute">max-width</span>: <span class="hljs-number">80ch</span>;
+  <span class="hljs-attribute">margin</span>: <span class="hljs-number">0</span> auto;
+}
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9">
 <h1>Select multiple elements using commas</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-tag">h1</span>, <span class="hljs-selector-tag">h2</span>, <span class="hljs-selector-tag">h3</span>, <span class="hljs-selector-tag">h4</span> {
   <span class="hljs-attribute">font-weight</span>: normal;
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10">
 <h1>Select elements by class or id using <code>.</code> and <code>#</code></h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-class">.quote</span> {
   <span class="hljs-attribute">font-style</span>: italic;
 }
 
 <span class="hljs-selector-id">#main-logo</span> {
-  fnt-size: <span class="hljs-number">40px</span>;
+  <span class="hljs-attribute">font-size</span>: <span class="hljs-number">40px</span>;
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11">
 <h1>This can all get quite specific</h1>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12">
 <h1>Select elements with a given class/id</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-tag">p</span><span class="hljs-selector-class">.quote</span> {
   <span class="hljs-attribute">font-style</span>: italic;
@@ -75,7 +94,7 @@
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13">
 <h1>Select elements inside of other elements</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-tag">li</span> <span class="hljs-selector-tag">a</span> {
   <span class="hljs-attribute">text-decoration</span>: none;
@@ -83,7 +102,7 @@
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14">
 <h1>Selector hierarchy: Most specific takes precedent</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-class">.quote</span> {
   <span class="hljs-attribute">font-style</span>: italic;
@@ -99,7 +118,7 @@
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15">
 <h1>Looking ahead: CSS selectors are also important in JavaScript</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-js"><span class="hljs-comment">// Select all elements with the class &quot;quote&quot;</span>
 <span class="hljs-keyword">var</span> elements = <span class="hljs-variable language_">document</span>.<span class="hljs-title function_">querySelectorAll</span>(<span class="hljs-string">&quot;.quote&quot;</span>);
@@ -112,38 +131,86 @@
 });
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13">
-<h1>Variables in general and in CSS</h1>
-<p>Keep things organized, makes changes clearer and quicker</p>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16">
+<h1>CSS Properties</h1>
+<p>Let's list some!</p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14">
-<h1>Variables</h1>
-<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-pseudo">:root</span> {
-  <span class="hljs-attr">--color-background</span>: papayawhip;
-  <span class="hljs-attr">--color-text</span>: darkgrey;
-  <span class="hljs-attr">--color-accent-1</span>: purple;
-  <span class="hljs-attr">--color-accent-2</span>: lightblue;
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17">
+<h1>Quick note on colors</h1>
+<p>Colors can be represented in a few ways:</p>
+<ul>
+<li>hexadecimal value (<code>#0558ff</code>)</li>
+<li>red, blue, green, alpha (<code>rgba(5, 88, 255, 1)</code>)</li>
+<li>hue, saturation, lightness (<code>hsla(220, 100%, 51%, 1)</code>)</li>
+</ul>
+<p>Recommended: <a href="https://hslpicker.com/">HSL Color Picker</a></p>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18">
+<h1>Any of these work fine</h1>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-tag">h1</span> {
+  <span class="hljs-attribute">color</span>: <span class="hljs-built_in">rgba</span>(<span class="hljs-number">41</span>, <span class="hljs-number">0</span>, <span class="hljs-number">15</span>, <span class="hljs-number">0.9</span>);
 }
 
-<span class="hljs-selector-tag">body</span> {
-  <span class="hljs-attribute">background-color</span>: <span class="hljs-built_in">var</span>(--color-background);
-}
-
-<span class="hljs-selector-tag">p</span> {
-  <span class="hljs-attribute">color</span>: <span class="hljs-built_in">var</span>(--color-text);
-}
-
-<span class="hljs-selector-tag">a</span> {
-  <span class="hljs-attribute">color</span>: <span class="hljs-built_in">var</span>(--color-accent-<span class="hljs-number">1</span>);
-}
-
-<span class="hljs-selector-tag">blockquote</span> {
-  <span class="hljs-attribute">color</span>: <span class="hljs-built_in">var</span>(--color-accent-<span class="hljs-number">2</span>);
-  <span class="hljs-attribute">border</span>: <span class="hljs-number">1px</span> solid <span class="hljs-built_in">var</span>(--color-accent-<span class="hljs-number">1</span>);
+<span class="hljs-selector-class">.byline</span> {
+  <span class="hljs-attribute">color</span>: <span class="hljs-number">#ff2e7b</span>;
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19">
+<h1>Variables (in general and in CSS specifically)</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="20">
+<h1>CSS variable syntax</h1>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-pseudo">:root</span> {
+  <span class="hljs-attr">--font-sans</span>: Arial,Helvetica Neue,Helvetica,sans-serif;
+}
+
+<span class="hljs-selector-tag">body</span> {
+  <span class="hljs-attribute">font-family</span>: <span class="hljs-built_in">var</span>(--font-sans);
+}
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21">
+<h1>The variable is just the &quot;value&quot;, we give it the &quot;property&quot;</h1>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22">
+<h1>CSS variables example: color scheme</h1>
+<pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-selector-pseudo">:root</span> {
+    <span class="hljs-attr">--color-background</span>: papayawhip;
+    <span class="hljs-attr">--color-text</span>: <span class="hljs-number">#1c1c1c</span>;
+    <span class="hljs-attr">--color-accent-1</span>: <span class="hljs-number">#ac4dc7</span>;
+    <span class="hljs-attr">--color-accent-2</span>: <span class="hljs-number">#309775</span>;
+}
+
+<span class="hljs-selector-tag">body</span> {
+    <span class="hljs-attribute">background-color</span>: <span class="hljs-built_in">var</span>(--color-background);
+}
+
+<span class="hljs-selector-tag">h1</span> {
+    <span class="hljs-attribute">color</span>: <span class="hljs-built_in">var</span>(--color-accent-<span class="hljs-number">2</span>);
+}
+
+<span class="hljs-selector-tag">p</span> {
+    <span class="hljs-attribute">color</span>: <span class="hljs-built_in">var</span>(--color-text);
+}
+
+<span class="hljs-selector-tag">a</span> {
+    <span class="hljs-attribute">color</span>: <span class="hljs-built_in">var</span>(--color-accent-<span class="hljs-number">1</span>);
+}
+
+<span class="hljs-selector-tag">blockquote</span> {
+    <span class="hljs-attribute">border-left</span>: <span class="hljs-number">5px</span> solid <span class="hljs-built_in">var</span>(--color-accent-<span class="hljs-number">1</span>);
+}
+</code></pre>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23">
+<h1>Why do this?</h1>
+<ul>
+<li>The DRY principle: Don't Repeat Yourself</li>
+<li>Keep code organized</li>
+</ul>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="24">
 <h1>Exercise</h1>
 <ol>
 <li>Implement a color scheme system for your page using CSS variables</li>
@@ -152,7 +219,7 @@
 </ol>
 <p>For inspo: <a href="https://coolors.co/palettes/trending">https://coolors.co/palettes/trending</a></p>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="25">
 <h1>Media queries and mobile</h1>
 <ul>
 <li>People view web pages on all different kinds of devices
@@ -167,10 +234,10 @@
 <li>Our pages should be legible and look good on all of these</li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="26">
 <h1>Using browsers' mobile preview functionality</h1>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="27">
 <h1>Setting different CSS based on device size: &quot;media queries&quot;</h1>
 <pre is="marp-pre" data-auto-scaling="downscale-only"><code class="language-css"><span class="hljs-comment">/* Mobile devices */</span>
 <span class="hljs-keyword">@media</span> (<span class="hljs-attribute">min-width</span>: <span class="hljs-number">320px</span>) {
@@ -188,25 +255,25 @@
 }
 </code></pre>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="28">
 <h1>Media queries demo</h1>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="20">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="29">
 <h1>&quot;Mobile-first&quot;</h1>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="30">
 <h1>Exercise</h1>
 <p>Let's make our page look better and mobile-friendly. Add the following:</p>
 <ul>
+<li>apply my starting CSS</li>
 <li>byline</li>
 <li>blockquote</li>
 <li>style your table to make it look nicer</li>
 <li>use your color scheme</li>
-<li>center your content on the page (<code>margin: 0 auto;</code>)</li>
 <li>start with mobile first, then scale up</li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="31">
 <h1>CSS to consider using/applying</h1>
 <ul>
 <li><code>margin</code></li>
@@ -216,7 +283,7 @@
 <li><code>width</code> and <code>max-width</code></li>
 </ul>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="32">
 <h1>CSS layouts</h1>
 <p><a href="https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids">Grids</a></p>
 </section>
