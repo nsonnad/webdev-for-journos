@@ -325,5 +325,12 @@ Let's make our page look better and mobile-friendly. Add the following:
 
 # CSS layouts
 
-[Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- [Grids](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids)
+- Flexbox
 
+---
+
+# Looking ahead
+
+- No class next week
+- Next homework introduces JavaScript
