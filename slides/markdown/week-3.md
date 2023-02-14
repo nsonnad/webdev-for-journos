@@ -157,6 +157,14 @@ Let's list some!
 
 ---
 
+# Let's look at some live CSS
+
+Also: Everybody's CSS is publicly available!
+
+[Example from The Markup](https://themarkup.org/news/2023/02/08/how-big-tech-rewrote-the-nations-first-cellphone-repair-law)
+
+---
+
 # Quick note on colors
 
 Colors can be represented in a few ways:
