@@ -1,6 +1,37 @@
+:root {
+    --font-sans: Arial;
+    --color-bright: green;
+}
+
+body {
+    font-family: var(--font-sans);
+}
+
+html {
+    /* set width not too wide */
+    max-width: 80ch;
+    /* center content */
+    margin: 0 auto;
+}
+
+
+#headline {
+    text-decoration: underline;
+    color: var(--color-bright);
+}
+
 .byline {
     font-style: italic;
     margin-bottom: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: var(--color-bright);
+}
+
+li a:hover {
+    text-decoration: underline;
 }
 
 .published-date {
@@ -19,11 +50,34 @@ blockquote {
     color: gray;
     margin: 0 0 20px;
     padding: 10px 20px;
-    border-left: 5px solid gray;
+    border-left: 5px solid var(--color-bright);
 }
 
 aside {
     background-color: #eee;
     padding: 10px;
     margin: 0 0 20px;
+}
+
+/* Mobile devices */
+@media (min-width: 320px) {
+    html {
+        font-size: 16px; 
+    }
+}
+
+/* Tablets */
+@media (min-width: 768px) {
+    /* styles for tablets */
+    html {
+        font-size: 18px; 
+    }
+}
+
+/* Laptops and desktops */
+@media (min-width: 1024px) {
+    /* styles for laptops and desktops */
+    html {
+        font-size: 20px; 
+    }
 }
