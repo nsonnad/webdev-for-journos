@@ -8,7 +8,24 @@ Isn't it exciting?
 
 ---
 
-# Today's class: Workshop!
+# Today's class: Workshop
+
+---
+
+# First, let's review some programming concepts
+
+(Using the JavaScript console in your browser)
+
+1. variables
+  1a. data types
+2. operators
+3. conditionals
+4. functions
+5. events
+
+---
+
+# Let's make something!
 
 [Number Guessing Game](https://mdn.github.io/learning-area/javascript/introduction-to-js-1/first-splash/number-guessing-game.html)
 
@@ -22,15 +39,11 @@ Isn't it exciting?
 
 # Thinking like a programmer
 
-Planning out what our program needs to do. What concrete things do we need to implement for our game?
+Planning out what our program needs to do. What concrete things do we need to implement for our game? Think about the concepts/tools available to us.
 
 ---
 
 # Let's write out the steps~
-
----
-
-# Using the JavaScript console in your browser
 
 ---
 
