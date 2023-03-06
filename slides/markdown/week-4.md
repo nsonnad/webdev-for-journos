@@ -14,8 +14,6 @@ Isn't it exciting?
 
 # First, let's review some programming concepts
 
-(Using the JavaScript console in your browser)
-
 1. variables
   1a. data types
 2. operators

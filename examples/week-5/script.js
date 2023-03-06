@@ -1,0 +1,84 @@
+let popData = [
+  ["Brazil","213,445,417"],
+  ["China","1,439,323,776"],
+  ["India","1,380,004,385"],
+  ["Indonesia","273,523,615"],
+  ["Pakistan","220,892,340"],
+  ["United States","331,449,281"]
+]
+
+let energyData = [
+  // 2019 data
+  // value is consumption in million tonnes oil equivalent
+  ["Coal",3863.3],
+  ["Hydroelectric",3106.7],
+  ["Natural Gas",3776.1],
+  ["Nuclear",2556.9],
+  ["Oil",4836.2],
+  ["Renewables",2961.6]
+]
+
+let langData = [
+  // 2021 data from ethnologue
+  // value is number of speakers in millions
+  ["Chinese (Mandarin)",1111],
+  ["Spanish",536],
+  ["English",1191],
+  ["Hindi",615],
+  ["Bengali",265],
+  ["Portuguese",258],
+  ["Russian",258],
+  ["Japanese",128],
+  ["Punjabi",119],
+  ["German",132],
+  ["Javanese",98.1],
+  ["Wu",80],
+  ["Korean",77.2],
+  ["French",300],
+  ["Telugu",92.7],
+  ["Marathi",83.1],
+  ["Turkish",83.2],
+  ["Tamil",78.5],
+  ["Vietnamese",95.4],
+  ["Yue (Cantonese)",71.5],
+  ["Urdu",68.6],
+  ["Min Nan",49],
+  ["Jin",45],
+  ["Gujarati",56.5],
+  ["Polish",45],
+  ["Pashto",43],
+  ["Kannada",44.9],
+  ["Xiang",36],
+  ["Malayalam",38.8],
+  ["Sundanese",36.6],
+  ["Hausa",38.8],
+  ["Oriya (Odia)",33.2],
+  ["Burmese",33.2],
+  ["Hakka",34.3],
+  ["Ukrainian",33.7],
+  ["Bhojpuri",33.1],
+  ["Tagalog",29.7],
+  ["Yoruba",28.9],
+  ["Maithili",33.7],
+  ["Swahili",16.7]
+];
+
+// Array.sort
+// sort energy data
+
+// Array.forEach
+// The forEach() method executes a provided function once for each array element.
+// sort popData by population
+
+// Array.filter
+// filter language data by > 50 million
+// Array.length is helpful here
+
+// Array.map
+
+
+// Working with HTML elements in JavaScript
+//- `document.querySelector`
+//- `document.createElement`
+//- `document.appendChild`
+// Build up a table using JS
