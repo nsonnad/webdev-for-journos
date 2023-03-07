@@ -117,13 +117,25 @@ Proper data prep can happen at many stages of the process of say making a web vi
 
 ---
 
+# One data structure: JavaScript Arrays.
+
+What do we know about them?
+
+---
+
+# "methods" overview
+
+- [ string ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+- [array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+
+---
+
 Demo / follow-along: Working with arrays in JavaScript
 
 - `sort`
 - `forEach`
 - `map`
 - `filter`
-- and more: [Array documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
 
 ---
 
