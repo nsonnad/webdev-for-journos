@@ -149,14 +149,22 @@ Working with HTML elements in JavaScript
 
 # Exercise
 
-Combine what we've learned to automatically turn an array of arrays into an HTML table.
+Let's turn `energyData` into an HTML table!
 
-1. Track down some interesting data that you want to display in table form
-2. Do any data prep necessary
-3. Turn a spreadsheet into a JS array with [Mr. Data Converter](https://shancarter.github.io/mr-data-converter/) (use JSON - Row Arrays setting)
-4. Write JS code to build up HTML table elements from your data
-5. Finally, write a JS function that will build an HTML table using *any* array of
-   arrays, not just the specific one you have
+1. Look up "how do I make an HTML table" with google, ChatGPT etc to understand
+   what the HTML should look like for a table
+2. Write a function that takes an array of arrays and builds an HTML table
+
+You'll need:
+
+- a function like `createTable` or some such
+- `Array.forEach`
+- `document.querySelector`
+- `document.createElement`
+- `element.appendChild`
 
 Hint: `console.log` is your friend! (And so am I.)
+
+---
+
 

@@ -63,22 +63,44 @@ let langData = [
   ["Swahili",16.7]
 ];
 
-// Array.sort
-// sort energy data
-
 // Array.forEach
-// The forEach() method executes a provided function once for each array element.
-// sort popData by population
+// The forEach() method executes a provided function 
+// once for each array element.
+
+// popData.forEach(function(country) {
+//   console.log(country);
+// });
+
+popData.forEach(convertPopToNumber)
+
+function convertPopToNumber(country) {
+  let population = country[1].replaceAll(",", "")
+  let populationInt = parseInt(population);
+  country[1] = populationInt;
+}
+
+popData.sort(function(countryA, countryB) {
+    // each country looks like: ["Country", PopInt]
+    return countryB[1] - countryA[1];
+});
 
 // Array.filter
 // filter language data by > 50 million
-// Array.length is helpful here
-
-// Array.map
-
+let smallerLanguages = langData.filter(function(language) {
+  let numSpeakers = language[1];
+  return numSpeakers <= 50;
+})
 
 // Working with HTML elements in JavaScript
 //- `document.querySelector`
 //- `document.createElement`
 //- `document.appendChild`
-// Build up a table using JS
+
+let container = document.querySelector(".container");
+
+popData.forEach(function(country) {
+  let p = document.createElement("p")
+  p.textContent = country[0] + ", " + country[1];
+  container.appendChild(p);
+})
+
