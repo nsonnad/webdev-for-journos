@@ -71,3 +71,19 @@ A library provides an "API" (application programming interface, but that's not i
 5. Turn this data into an HTML table using the boilerplate code in `script.js`, using what you know about arrays, objects, and HTML
 6. *Bonus*: style your page to look more like a news article, and write a headline and short intro for your table
 
+---
+
+# Looking ahead: Assignment 1
+
+- A simple webpage with: headline, byline, a table, and up to 300 words of context
+- The page should be well designed to look more or less like a news story (with as much personality as you want)
+- It should tell an interesting story!
+- Table is rendered from data using D3
+- Users can filter the table by typing into a text box
+- Due by class April 4 (we'll have an assignment workshop in two weeks)
+
+---
+
+# Next week
+
+Using D3 to generate webpage content from data
