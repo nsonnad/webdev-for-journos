@@ -96,11 +96,11 @@ let smallerLanguages = langData.filter(function(language) {
 //- `document.createElement`
 //- `document.appendChild`
 
-let container = document.querySelector(".container");
+let container = document.querySelector("table");
 
 popData.forEach(function(country) {
   let p = document.createElement("p")
-  p.textContent = country[0] + ", " + country[1];
+  p.textContent = country[0];
   container.appendChild(p);
 })
 
