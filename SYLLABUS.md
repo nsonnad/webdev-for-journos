@@ -224,8 +224,9 @@ Grading for individual assignments is based on the quality of the finished work:
 #### Class outcomes
 
 - Intro to core data visualization concepts
-- SVG, our new best friend
-- How d3 enables bespoke visualization
+- Intro to SVG
+- Exploring the possibilities of visualization with D3
+- Explanation of the rest of our semester
 
 #### Class prep
 
@@ -233,44 +234,87 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ---
 
-### week 10
+### week 10 – Getting into dataviz with D3
 
 #### Class outcomes
 
+- Initial setup and planning for your final project
+- Understanding how to get from idea to finished product with D3
+
 #### Class prep
 
+- freeCodeCamp – [Add classes with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-classes-with-d3)
+- freeCodeCamp – [Update the height of an element dynamically](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/update-the-height-of-an-element-dynamically)
+- freeCodeCamp – [Change the presentation of a bar chart](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-presentation-of-a-bar-chart)
 
 ### week 11
 
 #### Class outcomes
 
+- Understanding how to work with SVG
+- Adapting existing open source code to your projects
+- Project work
+
 #### Class prep
 
+- freeCodeCamp – [Learn about SVG in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/learn-about-svg-in-d3)
+- freeCodeCamp – [Display shapes with SVG](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/display-shapes-with-svg)
+- freeCodeCamp – [Create a bar for each data point](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-bar-for-each-data-point-in-the-set)
+- freeCodeCamp – [Set the coordinates for each bar](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/dynamically-set-the-coordinates-for-each-bar)
+- freeCodeCamp – [Dynamically change the height of each bar](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/dynamically-change-the-height-of-each-bar)
+- freeCodeCamp – [Invert SVG elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/invert-svg-elements)
 
 ### week 12
 
 #### Class outcomes
 
+- Understanding the importance of annotation to a good visualization
+- Different approaches to annotation
+- Project work
+
 #### Class prep
 
+- freeCodeCamp – [Change the color of an SVG element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element)
+- freeCodeCamp – [Add labels to D3 elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-labels-to-d3-elements)
+- freeCodeCamp – [Style D3 labels](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/style-d3-labels)
+- freeCodeCamp – [Add a hover effect to a D3 element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-hover-effect-to-a-d3-element)
+- freeCodeCamp – [Add a tooltip to a D3 element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-tooltip-to-a-d3-element)
 
 ### week 13
 
 #### Class outcomes
 
+- Thinking about how D3 works: scatterplots vs bar charts
+- Project work
+
 #### Class prep
+
+- freeCodeCamp – [Create a scatterplot with SVG circles](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-scatterplot-with-svg-circles)
+- freeCodeCamp – [Add attributes to the circle elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-attributes-to-the-circle-elements)
+- freeCodeCamp – [Add labels to scatterplot circles](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-labels-to-scatter-plot-circles)
 
 
 ### week 14
 
 #### Class outcomes
 
+- Understanding D3 scales, and their importance
+- Project work
+
 #### Class prep
 
+- freeCodeCamp – [Create a linear scale with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-linear-scale-with-d3)
+- freeCodeCamp – [Set a domain and range on a scale](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/set-a-domain-and-a-range-on-a-scale)
+- freeCodeCamp – [Use the d3.max and d3.min functions](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-the-d3-max-and-d3-min-functions-to-find-minimum-and-maximum-values-in-a-dataset)
+- freeCodeCamp – [Use dynamic scales](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-dynamic-scales)
+- freeCodeCamp – [Use a pre-defined scale to place elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-a-pre-defined-scale-to-place-elements)
+- freeCodeCamp – [Add axes to a visualization](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization)
 
 ### week 15
 
 #### Class outcomes
+
+- Review of what we covered this semester
 
 #### Class prep
 
