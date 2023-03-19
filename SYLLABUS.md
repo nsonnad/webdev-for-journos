@@ -234,7 +234,7 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ---
 
-no class
+### No class
 
 ---
 
