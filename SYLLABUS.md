@@ -234,7 +234,13 @@ Grading for individual assignments is based on the quality of the finished work:
 
 ---
 
-### week 10 – Getting into dataviz with D3
+no class
+
+---
+
+## Dataviz with D3: Project-based work
+
+### week 10
 
 #### Class outcomes
 
