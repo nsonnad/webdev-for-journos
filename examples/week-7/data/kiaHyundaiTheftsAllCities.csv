@@ -1,0 +1,841 @@
+month,year,city,state,countKiaHyundaiThefts,countOtherThefts,percentKiaHyundai
+Jan,2019,Atlanta,GA,17,264,0.060
+Feb,2019,Atlanta,GA,11,205,0.051
+Mar,2019,Atlanta,GA,18,181,0.090
+Apr,2019,Atlanta,GA,15,223,0.063
+May,2019,Atlanta,GA,16,277,0.055
+Jun,2019,Atlanta,GA,14,220,0.060
+Jul,2019,Atlanta,GA,19,267,0.066
+Aug,2019,Atlanta,GA,12,242,0.047
+Sep,2019,Atlanta,GA,11,234,0.045
+Oct,2019,Atlanta,GA,12,206,0.055
+Nov,2019,Atlanta,GA,17,216,0.073
+Dec,2019,Atlanta,GA,17,263,0.061
+Jan,2020,Atlanta,GA,15,253,0.056
+Feb,2020,Atlanta,GA,17,206,0.076
+Mar,2020,Atlanta,GA,27,179,0.131
+Apr,2020,Atlanta,GA,8,150,0.051
+May,2020,Atlanta,GA,9,158,0.054
+Jun,2020,Atlanta,GA,13,204,0.060
+Jul,2020,Atlanta,GA,21,269,0.072
+Aug,2020,Atlanta,GA,17,255,0.063
+Sep,2020,Atlanta,GA,13,271,0.046
+Oct,2020,Atlanta,GA,15,371,0.039
+Nov,2020,Atlanta,GA,13,354,0.035
+Dec,2020,Atlanta,GA,22,359,0.058
+Jan,2021,Atlanta,GA,24,359,0.063
+Feb,2021,Atlanta,GA,13,262,0.047
+Mar,2021,Atlanta,GA,20,198,0.092
+Apr,2021,Atlanta,GA,13,202,0.060
+May,2021,Atlanta,GA,14,256,0.052
+Jun,2021,Atlanta,GA,11,202,0.052
+Jul,2021,Atlanta,GA,15,244,0.058
+Aug,2021,Atlanta,GA,17,233,0.068
+Sep,2021,Atlanta,GA,13,257,0.048
+Oct,2021,Atlanta,GA,12,228,0.050
+Nov,2021,Atlanta,GA,10,235,0.041
+Dec,2021,Atlanta,GA,19,219,0.080
+Jan,2022,Atlanta,GA,24,239,0.091
+Feb,2022,Atlanta,GA,14,204,0.064
+Mar,2022,Atlanta,GA,11,210,0.050
+Apr,2022,Atlanta,GA,10,192,0.050
+May,2022,Atlanta,GA,10,210,0.045
+Jun,2022,Atlanta,GA,37,265,0.123
+Jul,2022,Atlanta,GA,58,272,0.176
+Aug,2022,Atlanta,GA,46,211,0.179
+Sep,2022,Atlanta,GA,46,202,0.185
+Oct,2022,Atlanta,GA,106,201,0.345
+Nov,2022,Atlanta,GA,108,269,0.286
+Dec,2022,Atlanta,GA,116,251,0.316
+Jan,2019,Baltimore,MD,44,481,0.084
+Feb,2019,Baltimore,MD,35,366,0.087
+Mar,2019,Baltimore,MD,49,399,0.109
+Apr,2019,Baltimore,MD,27,421,0.060
+May,2019,Baltimore,MD,34,444,0.071
+Jun,2019,Baltimore,MD,30,477,0.059
+Jul,2019,Baltimore,MD,48,566,0.078
+Aug,2019,Baltimore,MD,33,506,0.061
+Sep,2019,Baltimore,MD,37,458,0.075
+Oct,2019,Baltimore,MD,34,474,0.067
+Nov,2019,Baltimore,MD,31,429,0.067
+Dec,2019,Baltimore,MD,35,494,0.066
+Jan,2020,Baltimore,MD,38,440,0.079
+Feb,2020,Baltimore,MD,30,366,0.076
+Mar,2020,Baltimore,MD,28,359,0.072
+Apr,2020,Baltimore,MD,28,322,0.080
+May,2020,Baltimore,MD,21,332,0.059
+Jun,2020,Baltimore,MD,21,361,0.055
+Jul,2020,Baltimore,MD,28,381,0.068
+Aug,2020,Baltimore,MD,31,410,0.070
+Sep,2020,Baltimore,MD,41,393,0.094
+Oct,2020,Baltimore,MD,33,375,0.081
+Nov,2020,Baltimore,MD,33,399,0.076
+Dec,2020,Baltimore,MD,24,355,0.063
+Jan,2021,Baltimore,MD,34,348,0.089
+Feb,2021,Baltimore,MD,25,316,0.073
+Mar,2021,Baltimore,MD,27,347,0.072
+Apr,2021,Baltimore,MD,27,322,0.077
+May,2021,Baltimore,MD,43,421,0.093
+Jun,2021,Baltimore,MD,33,420,0.073
+Jul,2021,Baltimore,MD,19,400,0.045
+Aug,2021,Baltimore,MD,28,418,0.063
+Sep,2021,Baltimore,MD,45,445,0.092
+Oct,2021,Baltimore,MD,34,375,0.083
+Nov,2021,Baltimore,MD,32,431,0.069
+Dec,2021,Baltimore,MD,44,414,0.096
+Jan,2022,Baltimore,MD,47,460,0.093
+Feb,2022,Baltimore,MD,33,348,0.087
+Mar,2022,Baltimore,MD,34,357,0.087
+Apr,2022,Baltimore,MD,31,373,0.077
+May,2022,Baltimore,MD,31,359,0.079
+Jun,2022,Baltimore,MD,45,418,0.097
+Jul,2022,Baltimore,MD,69,441,0.135
+Aug,2022,Baltimore,MD,91,370,0.197
+Sep,2022,Baltimore,MD,75,420,0.152
+Oct,2022,Baltimore,MD,112,438,0.204
+Nov,2022,Baltimore,MD,108,393,0.216
+Dec,2022,Baltimore,MD,131,401,0.246
+Jan,2019,Chicago,IL,52,586,0.082
+Feb,2019,Chicago,IL,43,552,0.072
+Mar,2019,Chicago,IL,44,602,0.068
+Apr,2019,Chicago,IL,57,614,0.085
+May,2019,Chicago,IL,47,646,0.068
+Jun,2019,Chicago,IL,45,676,0.062
+Jul,2019,Chicago,IL,63,725,0.080
+Aug,2019,Chicago,IL,55,696,0.073
+Sep,2019,Chicago,IL,37,582,0.060
+Oct,2019,Chicago,IL,39,631,0.058
+Nov,2019,Chicago,IL,41,592,0.065
+Dec,2019,Chicago,IL,53,662,0.074
+Jan,2020,Chicago,IL,41,579,0.066
+Feb,2020,Chicago,IL,43,556,0.072
+Mar,2020,Chicago,IL,37,543,0.064
+Apr,2020,Chicago,IL,46,569,0.075
+May,2020,Chicago,IL,62,751,0.076
+Jun,2020,Chicago,IL,58,654,0.081
+Jul,2020,Chicago,IL,66,785,0.078
+Aug,2020,Chicago,IL,70,860,0.075
+Sep,2020,Chicago,IL,45,814,0.052
+Oct,2020,Chicago,IL,52,875,0.056
+Nov,2020,Chicago,IL,60,817,0.068
+Dec,2020,Chicago,IL,71,818,0.080
+Jan,2021,Chicago,IL,64,725,0.081
+Feb,2021,Chicago,IL,48,573,0.077
+Mar,2021,Chicago,IL,62,706,0.081
+Apr,2021,Chicago,IL,49,578,0.078
+May,2021,Chicago,IL,39,606,0.060
+Jun,2021,Chicago,IL,54,727,0.069
+Jul,2021,Chicago,IL,57,767,0.069
+Aug,2021,Chicago,IL,62,832,0.069
+Sep,2021,Chicago,IL,79,915,0.079
+Oct,2021,Chicago,IL,81,1058,0.071
+Nov,2021,Chicago,IL,73,983,0.069
+Dec,2021,Chicago,IL,82,1005,0.075
+Jan,2022,Chicago,IL,106,992,0.097
+Feb,2022,Chicago,IL,77,867,0.082
+Mar,2022,Chicago,IL,80,972,0.076
+Apr,2022,Chicago,IL,88,901,0.089
+May,2022,Chicago,IL,62,954,0.061
+Jun,2022,Chicago,IL,138,972,0.124
+Jul,2022,Chicago,IL,476,1190,0.286
+Aug,2022,Chicago,IL,706,1214,0.368
+Sep,2022,Chicago,IL,912,1152,0.442
+Oct,2022,Chicago,IL,1483,1092,0.576
+Nov,2022,Chicago,IL,1453,941,0.607
+Dec,2022,Chicago,IL,1220,1016,0.546
+Jan,2022,Cleveland,OH,49,293,0.143
+Feb,2022,Cleveland,OH,25,243,0.093
+Mar,2022,Cleveland,OH,31,280,0.100
+Apr,2022,Cleveland,OH,17,217,0.073
+May,2022,Cleveland,OH,29,228,0.113
+Jun,2022,Cleveland,OH,28,229,0.109
+Jul,2022,Cleveland,OH,123,111,0.526
+Aug,2022,Cleveland,OH,105,216,0.327
+Sep,2022,Cleveland,OH,204,202,0.502
+Oct,2022,Cleveland,OH,299,247,0.548
+Nov,2022,Cleveland,OH,403,212,0.655
+Dec,2022,Cleveland,OH,465,234,0.665
+Jan,2019,Dayton,OH,2,75,0.026
+Feb,2019,Dayton,OH,4,60,0.063
+Mar,2019,Dayton,OH,6,49,0.109
+Apr,2019,Dayton,OH,3,56,0.051
+May,2019,Dayton,OH,4,63,0.060
+Jun,2019,Dayton,OH,2,71,0.027
+Jul,2019,Dayton,OH,4,84,0.045
+Aug,2019,Dayton,OH,3,82,0.035
+Sep,2019,Dayton,OH,2,63,0.031
+Oct,2019,Dayton,OH,3,52,0.055
+Nov,2019,Dayton,OH,6,55,0.098
+Dec,2019,Dayton,OH,2,55,0.035
+Jan,2020,Dayton,OH,5,65,0.071
+Feb,2020,Dayton,OH,5,64,0.072
+Mar,2020,Dayton,OH,6,77,0.072
+Apr,2020,Dayton,OH,6,65,0.085
+May,2020,Dayton,OH,4,68,0.056
+Jun,2020,Dayton,OH,3,67,0.043
+Jul,2020,Dayton,OH,4,56,0.067
+Aug,2020,Dayton,OH,4,70,0.054
+Sep,2020,Dayton,OH,4,72,0.053
+Oct,2020,Dayton,OH,7,71,0.090
+Nov,2020,Dayton,OH,5,62,0.075
+Dec,2020,Dayton,OH,5,87,0.054
+Jan,2021,Dayton,OH,6,76,0.073
+Feb,2021,Dayton,OH,2,83,0.024
+Mar,2021,Dayton,OH,1,61,0.016
+Apr,2021,Dayton,OH,2,64,0.030
+May,2021,Dayton,OH,4,58,0.065
+Jun,2021,Dayton,OH,2,61,0.032
+Jul,2021,Dayton,OH,4,64,0.059
+Aug,2021,Dayton,OH,3,68,0.042
+Sep,2021,Dayton,OH,6,70,0.079
+Oct,2021,Dayton,OH,1,61,0.016
+Nov,2021,Dayton,OH,5,80,0.059
+Dec,2021,Dayton,OH,3,71,0.041
+Jan,2022,Dayton,OH,1,85,0.012
+Feb,2022,Dayton,OH,5,68,0.068
+Mar,2022,Dayton,OH,5,69,0.068
+Apr,2022,Dayton,OH,3,68,0.042
+May,2022,Dayton,OH,5,64,0.072
+Jun,2022,Dayton,OH,9,63,0.125
+Jul,2022,Dayton,OH,42,83,0.336
+Aug,2022,Dayton,OH,111,90,0.552
+Sep,2022,Dayton,OH,78,78,0.500
+Oct,2022,Dayton,OH,134,96,0.583
+Nov,2022,Dayton,OH,100,63,0.613
+Dec,2022,Dayton,OH,173,73,0.703
+Jan,2019,Denver,CO,15,394,0.037
+Feb,2019,Denver,CO,6,392,0.015
+Mar,2019,Denver,CO,13,408,0.031
+Apr,2019,Denver,CO,5,395,0.013
+May,2019,Denver,CO,16,434,0.036
+Jun,2019,Denver,CO,24,496,0.046
+Jul,2019,Denver,CO,15,449,0.032
+Aug,2019,Denver,CO,11,425,0.025
+Sep,2019,Denver,CO,20,402,0.047
+Oct,2019,Denver,CO,27,367,0.069
+Nov,2019,Denver,CO,59,397,0.129
+Dec,2019,Denver,CO,47,467,0.091
+Jan,2020,Denver,CO,18,430,0.040
+Feb,2020,Denver,CO,25,320,0.072
+Mar,2020,Denver,CO,30,405,0.069
+Apr,2020,Denver,CO,41,552,0.069
+May,2020,Denver,CO,28,593,0.045
+Jun,2020,Denver,CO,54,611,0.081
+Jul,2020,Denver,CO,69,721,0.087
+Aug,2020,Denver,CO,97,724,0.118
+Sep,2020,Denver,CO,116,825,0.123
+Oct,2020,Denver,CO,118,827,0.125
+Nov,2020,Denver,CO,163,772,0.174
+Dec,2020,Denver,CO,165,821,0.167
+Jan,2021,Denver,CO,231,798,0.224
+Feb,2021,Denver,CO,170,751,0.185
+Mar,2021,Denver,CO,190,775,0.197
+Apr,2021,Denver,CO,245,795,0.236
+May,2021,Denver,CO,269,831,0.245
+Jun,2021,Denver,CO,233,863,0.213
+Jul,2021,Denver,CO,196,901,0.179
+Aug,2021,Denver,CO,232,905,0.204
+Sep,2021,Denver,CO,221,845,0.207
+Oct,2021,Denver,CO,169,840,0.167
+Nov,2021,Denver,CO,253,816,0.237
+Dec,2021,Denver,CO,337,829,0.289
+Jan,2022,Denver,CO,375,875,0.300
+Feb,2022,Denver,CO,396,906,0.304
+Mar,2022,Denver,CO,482,949,0.337
+Apr,2022,Denver,CO,396,824,0.325
+May,2022,Denver,CO,423,884,0.324
+Jun,2022,Denver,CO,395,783,0.335
+Jul,2022,Denver,CO,537,726,0.425
+Aug,2022,Denver,CO,422,772,0.353
+Sep,2022,Denver,CO,472,801,0.371
+Oct,2022,Denver,CO,471,849,0.357
+Nov,2022,Denver,CO,391,728,0.349
+Dec,2022,Denver,CO,455,667,0.406
+Jan,2019,El Paso,TX,9,56,0.138
+Feb,2019,El Paso,TX,3,58,0.049
+Mar,2019,El Paso,TX,6,69,0.080
+Apr,2019,El Paso,TX,3,53,0.054
+May,2019,El Paso,TX,6,58,0.094
+Jun,2019,El Paso,TX,2,64,0.030
+Jul,2019,El Paso,TX,6,77,0.072
+Aug,2019,El Paso,TX,5,73,0.064
+Sep,2019,El Paso,TX,0,75,0.000
+Oct,2019,El Paso,TX,4,84,0.045
+Nov,2019,El Paso,TX,9,51,0.150
+Dec,2019,El Paso,TX,13,85,0.133
+Jan,2020,El Paso,TX,9,85,0.096
+Feb,2020,El Paso,TX,5,53,0.086
+Mar,2020,El Paso,TX,6,62,0.088
+Apr,2020,El Paso,TX,1,55,0.018
+May,2020,El Paso,TX,1,55,0.018
+Jun,2020,El Paso,TX,8,63,0.113
+Jul,2020,El Paso,TX,5,58,0.079
+Aug,2020,El Paso,TX,4,80,0.048
+Sep,2020,El Paso,TX,2,61,0.032
+Oct,2020,El Paso,TX,3,72,0.040
+Nov,2020,El Paso,TX,2,64,0.030
+Dec,2020,El Paso,TX,6,100,0.057
+Jan,2021,El Paso,TX,5,121,0.040
+Feb,2021,El Paso,TX,5,79,0.060
+Mar,2021,El Paso,TX,9,76,0.106
+Apr,2021,El Paso,TX,7,78,0.082
+May,2021,El Paso,TX,5,67,0.069
+Jun,2021,El Paso,TX,3,54,0.053
+Jul,2021,El Paso,TX,4,84,0.045
+Aug,2021,El Paso,TX,8,87,0.084
+Sep,2021,El Paso,TX,5,71,0.066
+Oct,2021,El Paso,TX,4,73,0.052
+Nov,2021,El Paso,TX,4,83,0.046
+Dec,2021,El Paso,TX,5,86,0.055
+Jan,2022,El Paso,TX,8,85,0.086
+Feb,2022,El Paso,TX,6,98,0.058
+Mar,2022,El Paso,TX,5,124,0.039
+Apr,2022,El Paso,TX,4,133,0.029
+May,2022,El Paso,TX,8,123,0.061
+Jun,2022,El Paso,TX,9,119,0.070
+Jul,2022,El Paso,TX,15,109,0.121
+Aug,2022,El Paso,TX,19,98,0.162
+Sep,2022,El Paso,TX,8,124,0.061
+Oct,2022,El Paso,TX,10,107,0.085
+Nov,2022,El Paso,TX,11,113,0.089
+Dec,2022,El Paso,TX,12,125,0.088
+Jan,2019,Fort Worth,TX,17,369,0.044
+Feb,2019,Fort Worth,TX,15,262,0.054
+Mar,2019,Fort Worth,TX,17,298,0.054
+Apr,2019,Fort Worth,TX,13,253,0.049
+May,2019,Fort Worth,TX,17,264,0.060
+Jun,2019,Fort Worth,TX,13,284,0.044
+Jul,2019,Fort Worth,TX,16,267,0.057
+Aug,2019,Fort Worth,TX,15,252,0.056
+Sep,2019,Fort Worth,TX,12,268,0.043
+Oct,2019,Fort Worth,TX,18,255,0.066
+Nov,2019,Fort Worth,TX,18,247,0.068
+Dec,2019,Fort Worth,TX,19,277,0.064
+Jan,2020,Fort Worth,TX,15,270,0.053
+Feb,2020,Fort Worth,TX,6,263,0.022
+Mar,2020,Fort Worth,TX,16,242,0.062
+Apr,2020,Fort Worth,TX,20,269,0.069
+May,2020,Fort Worth,TX,15,283,0.050
+Jun,2020,Fort Worth,TX,22,268,0.076
+Jul,2020,Fort Worth,TX,20,291,0.064
+Aug,2020,Fort Worth,TX,25,328,0.071
+Sep,2020,Fort Worth,TX,11,250,0.042
+Oct,2020,Fort Worth,TX,19,308,0.058
+Nov,2020,Fort Worth,TX,12,317,0.036
+Dec,2020,Fort Worth,TX,12,339,0.034
+Jan,2021,Fort Worth,TX,14,281,0.047
+Feb,2021,Fort Worth,TX,18,253,0.066
+Mar,2021,Fort Worth,TX,14,269,0.049
+Apr,2021,Fort Worth,TX,18,229,0.073
+May,2021,Fort Worth,TX,30,293,0.093
+Jun,2021,Fort Worth,TX,23,325,0.066
+Jul,2021,Fort Worth,TX,20,310,0.061
+Aug,2021,Fort Worth,TX,27,328,0.076
+Sep,2021,Fort Worth,TX,19,292,0.061
+Oct,2021,Fort Worth,TX,17,339,0.048
+Nov,2021,Fort Worth,TX,25,298,0.077
+Dec,2021,Fort Worth,TX,24,273,0.081
+Jan,2022,Fort Worth,TX,24,301,0.074
+Feb,2022,Fort Worth,TX,11,250,0.042
+Mar,2022,Fort Worth,TX,10,291,0.033
+Apr,2022,Fort Worth,TX,25,238,0.095
+May,2022,Fort Worth,TX,12,271,0.042
+Jun,2022,Fort Worth,TX,13,284,0.044
+Jul,2022,Fort Worth,TX,25,275,0.083
+Aug,2022,Fort Worth,TX,19,313,0.057
+Sep,2022,Fort Worth,TX,23,243,0.086
+Oct,2022,Fort Worth,TX,33,296,0.100
+Nov,2022,Fort Worth,TX,35,281,0.111
+Dec,2022,Fort Worth,TX,30,329,0.084
+Jan,2019,Louisville,KY,24,250,0.088
+Feb,2019,Louisville,KY,18,217,0.077
+Mar,2019,Louisville,KY,19,236,0.075
+Apr,2019,Louisville,KY,16,224,0.067
+May,2019,Louisville,KY,14,255,0.052
+Jun,2019,Louisville,KY,28,318,0.081
+Jul,2019,Louisville,KY,11,268,0.039
+Aug,2019,Louisville,KY,11,274,0.039
+Sep,2019,Louisville,KY,20,228,0.081
+Oct,2019,Louisville,KY,16,230,0.065
+Nov,2019,Louisville,KY,31,240,0.114
+Dec,2019,Louisville,KY,21,220,0.087
+Jan,2020,Louisville,KY,18,219,0.076
+Feb,2020,Louisville,KY,12,211,0.054
+Mar,2020,Louisville,KY,12,227,0.050
+Apr,2020,Louisville,KY,15,255,0.056
+May,2020,Louisville,KY,15,235,0.060
+Jun,2020,Louisville,KY,26,311,0.077
+Jul,2020,Louisville,KY,25,387,0.061
+Aug,2020,Louisville,KY,21,336,0.059
+Sep,2020,Louisville,KY,19,283,0.063
+Oct,2020,Louisville,KY,22,326,0.063
+Nov,2020,Louisville,KY,16,309,0.049
+Dec,2020,Louisville,KY,38,356,0.096
+Jan,2021,Louisville,KY,36,308,0.105
+Feb,2021,Louisville,KY,17,260,0.061
+Mar,2021,Louisville,KY,21,256,0.076
+Apr,2021,Louisville,KY,30,212,0.124
+May,2021,Louisville,KY,21,290,0.068
+Jun,2021,Louisville,KY,13,273,0.045
+Jul,2021,Louisville,KY,25,273,0.084
+Aug,2021,Louisville,KY,18,282,0.060
+Sep,2021,Louisville,KY,18,240,0.070
+Oct,2021,Louisville,KY,17,252,0.063
+Nov,2021,Louisville,KY,32,274,0.105
+Dec,2021,Louisville,KY,17,240,0.066
+Jan,2022,Louisville,KY,18,286,0.059
+Feb,2022,Louisville,KY,23,216,0.096
+Mar,2022,Louisville,KY,21,270,0.072
+Apr,2022,Louisville,KY,12,238,0.048
+May,2022,Louisville,KY,21,273,0.071
+Jun,2022,Louisville,KY,38,259,0.128
+Jul,2022,Louisville,KY,70,275,0.203
+Aug,2022,Louisville,KY,61,246,0.199
+Sep,2022,Louisville,KY,65,252,0.205
+Oct,2022,Louisville,KY,143,259,0.356
+Nov,2022,Louisville,KY,119,228,0.343
+Dec,2022,Louisville,KY,160,252,0.388
+Jan,2019,Milwaukee,WI,22,235,0.086
+Feb,2019,Milwaukee,WI,13,218,0.056
+Mar,2019,Milwaukee,WI,10,195,0.049
+Apr,2019,Milwaukee,WI,10,238,0.040
+May,2019,Milwaukee,WI,11,280,0.038
+Jun,2019,Milwaukee,WI,15,330,0.043
+Jul,2019,Milwaukee,WI,25,295,0.078
+Aug,2019,Milwaukee,WI,21,352,0.056
+Sep,2019,Milwaukee,WI,18,256,0.066
+Oct,2019,Milwaukee,WI,25,266,0.086
+Nov,2019,Milwaukee,WI,14,309,0.043
+Dec,2019,Milwaukee,WI,23,307,0.070
+Jan,2020,Milwaukee,WI,24,289,0.077
+Feb,2020,Milwaukee,WI,24,266,0.083
+Mar,2020,Milwaukee,WI,27,249,0.098
+Apr,2020,Milwaukee,WI,17,224,0.071
+May,2020,Milwaukee,WI,12,242,0.047
+Jun,2020,Milwaukee,WI,16,266,0.057
+Jul,2020,Milwaukee,WI,24,414,0.055
+Aug,2020,Milwaukee,WI,20,403,0.047
+Sep,2020,Milwaukee,WI,39,322,0.108
+Oct,2020,Milwaukee,WI,77,358,0.177
+Nov,2020,Milwaukee,WI,209,320,0.395
+Dec,2020,Milwaukee,WI,406,296,0.578
+Jan,2021,Milwaukee,WI,512,278,0.648
+Feb,2021,Milwaukee,WI,348,281,0.553
+Mar,2021,Milwaukee,WI,496,222,0.691
+Apr,2021,Milwaukee,WI,598,239,0.714
+May,2021,Milwaukee,WI,594,304,0.661
+Jun,2021,Milwaukee,WI,644,275,0.701
+Jul,2021,Milwaukee,WI,760,306,0.713
+Aug,2021,Milwaukee,WI,832,337,0.712
+Sep,2021,Milwaukee,WI,605,303,0.666
+Oct,2021,Milwaukee,WI,560,338,0.624
+Nov,2021,Milwaukee,WI,537,315,0.630
+Dec,2021,Milwaukee,WI,485,309,0.611
+Jan,2022,Milwaukee,WI,425,415,0.506
+Feb,2022,Milwaukee,WI,364,282,0.563
+Mar,2022,Milwaukee,WI,407,274,0.598
+Apr,2022,Milwaukee,WI,396,252,0.611
+May,2022,Milwaukee,WI,436,278,0.611
+Jun,2022,Milwaukee,WI,508,279,0.645
+Jul,2022,Milwaukee,WI,487,332,0.595
+Aug,2022,Milwaukee,WI,393,291,0.575
+Sep,2022,Milwaukee,WI,295,253,0.538
+Oct,2022,Milwaukee,WI,374,255,0.595
+Nov,2022,Milwaukee,WI,305,210,0.592
+Dec,2022,Milwaukee,WI,289,256,0.530
+Jan,2019,Omaha,NE,18,390,0.044
+Feb,2019,Omaha,NE,8,320,0.024
+Mar,2019,Omaha,NE,16,260,0.058
+Apr,2019,Omaha,NE,10,293,0.033
+May,2019,Omaha,NE,9,266,0.033
+Jun,2019,Omaha,NE,7,268,0.025
+Jul,2019,Omaha,NE,19,350,0.051
+Aug,2019,Omaha,NE,10,280,0.034
+Sep,2019,Omaha,NE,17,272,0.059
+Oct,2019,Omaha,NE,6,294,0.020
+Nov,2019,Omaha,NE,13,296,0.042
+Dec,2019,Omaha,NE,9,280,0.031
+Jan,2020,Omaha,NE,14,272,0.049
+Feb,2020,Omaha,NE,9,212,0.041
+Mar,2020,Omaha,NE,16,234,0.064
+Apr,2020,Omaha,NE,8,240,0.032
+May,2020,Omaha,NE,7,198,0.034
+Jun,2020,Omaha,NE,7,270,0.025
+Jul,2020,Omaha,NE,17,278,0.058
+Aug,2020,Omaha,NE,12,334,0.035
+Sep,2020,Omaha,NE,16,342,0.045
+Oct,2020,Omaha,NE,19,433,0.042
+Nov,2020,Omaha,NE,7,312,0.022
+Dec,2020,Omaha,NE,12,299,0.039
+Jan,2021,Omaha,NE,17,257,0.062
+Feb,2021,Omaha,NE,17,261,0.061
+Mar,2021,Omaha,NE,9,266,0.033
+Apr,2021,Omaha,NE,5,228,0.021
+May,2021,Omaha,NE,13,260,0.048
+Jun,2021,Omaha,NE,7,287,0.024
+Jul,2021,Omaha,NE,14,284,0.047
+Aug,2021,Omaha,NE,16,301,0.050
+Sep,2021,Omaha,NE,11,310,0.034
+Oct,2021,Omaha,NE,19,350,0.051
+Nov,2021,Omaha,NE,5,239,0.020
+Dec,2021,Omaha,NE,13,298,0.042
+Jan,2022,Omaha,NE,9,278,0.031
+Feb,2022,Omaha,NE,21,262,0.074
+Mar,2022,Omaha,NE,10,278,0.035
+Apr,2022,Omaha,NE,14,256,0.052
+May,2022,Omaha,NE,13,220,0.056
+Jun,2022,Omaha,NE,24,223,0.097
+Jul,2022,Omaha,NE,71,309,0.187
+Aug,2022,Omaha,NE,87,313,0.217
+Sep,2022,Omaha,NE,19,281,0.063
+Oct,2022,Omaha,NE,56,348,0.139
+Nov,2022,Omaha,NE,115,328,0.260
+Dec,2022,Omaha,NE,118,342,0.257
+Jan,2019,Portland,OR,9,525,0.017
+Feb,2019,Portland,OR,12,538,0.022
+Mar,2019,Portland,OR,8,528,0.015
+Apr,2019,Portland,OR,13,495,0.026
+May,2019,Portland,OR,13,526,0.024
+Jun,2019,Portland,OR,9,515,0.017
+Jul,2019,Portland,OR,12,510,0.023
+Aug,2019,Portland,OR,8,474,0.017
+Sep,2019,Portland,OR,16,522,0.030
+Oct,2019,Portland,OR,11,528,0.020
+Nov,2019,Portland,OR,10,508,0.019
+Dec,2019,Portland,OR,13,579,0.022
+Jan,2020,Portland,OR,12,547,0.021
+Feb,2020,Portland,OR,10,488,0.020
+Mar,2020,Portland,OR,4,461,0.009
+Apr,2020,Portland,OR,7,481,0.014
+May,2020,Portland,OR,7,380,0.018
+Jun,2020,Portland,OR,11,412,0.026
+Jul,2020,Portland,OR,11,517,0.021
+Aug,2020,Portland,OR,8,621,0.013
+Sep,2020,Portland,OR,11,646,0.017
+Oct,2020,Portland,OR,13,603,0.021
+Nov,2020,Portland,OR,17,617,0.027
+Dec,2020,Portland,OR,14,556,0.025
+Jan,2021,Portland,OR,27,528,0.049
+Feb,2021,Portland,OR,8,478,0.016
+Mar,2021,Portland,OR,21,595,0.034
+Apr,2021,Portland,OR,11,497,0.022
+May,2021,Portland,OR,5,585,0.008
+Jun,2021,Portland,OR,17,634,0.026
+Jul,2021,Portland,OR,18,723,0.024
+Aug,2021,Portland,OR,20,782,0.025
+Sep,2021,Portland,OR,14,884,0.016
+Oct,2021,Portland,OR,27,1008,0.026
+Nov,2021,Portland,OR,27,1114,0.024
+Dec,2021,Portland,OR,19,1019,0.018
+Jan,2022,Portland,OR,39,988,0.038
+Feb,2022,Portland,OR,29,774,0.036
+Mar,2022,Portland,OR,32,1008,0.031
+Apr,2022,Portland,OR,32,860,0.036
+May,2022,Portland,OR,31,819,0.036
+Jun,2022,Portland,OR,43,787,0.052
+Jul,2022,Portland,OR,84,781,0.097
+Aug,2022,Portland,OR,183,756,0.195
+Sep,2022,Portland,OR,124,734,0.145
+Oct,2022,Portland,OR,172,760,0.185
+Nov,2022,Portland,OR,245,719,0.254
+Dec,2022,Portland,OR,301,592,0.337
+Jan,2019,Richmond,VA,5,122,0.039
+Feb,2019,Richmond,VA,9,70,0.114
+Mar,2019,Richmond,VA,3,69,0.042
+Apr,2019,Richmond,VA,6,78,0.071
+May,2019,Richmond,VA,4,89,0.043
+Jun,2019,Richmond,VA,6,104,0.055
+Jul,2019,Richmond,VA,3,105,0.028
+Aug,2019,Richmond,VA,6,90,0.063
+Sep,2019,Richmond,VA,8,109,0.068
+Oct,2019,Richmond,VA,6,104,0.055
+Nov,2019,Richmond,VA,2,101,0.019
+Dec,2019,Richmond,VA,9,84,0.097
+Jan,2020,Richmond,VA,10,104,0.088
+Feb,2020,Richmond,VA,6,73,0.076
+Mar,2020,Richmond,VA,4,68,0.056
+Apr,2020,Richmond,VA,6,64,0.086
+May,2020,Richmond,VA,4,71,0.053
+Jun,2020,Richmond,VA,6,97,0.058
+Jul,2020,Richmond,VA,7,103,0.064
+Aug,2020,Richmond,VA,9,119,0.070
+Sep,2020,Richmond,VA,11,88,0.111
+Oct,2020,Richmond,VA,14,91,0.133
+Nov,2020,Richmond,VA,9,88,0.093
+Dec,2020,Richmond,VA,6,102,0.056
+Jan,2021,Richmond,VA,6,84,0.067
+Feb,2021,Richmond,VA,5,59,0.078
+Mar,2021,Richmond,VA,1,61,0.016
+Apr,2021,Richmond,VA,6,59,0.092
+May,2021,Richmond,VA,9,86,0.095
+Jun,2021,Richmond,VA,13,86,0.131
+Jul,2021,Richmond,VA,5,87,0.054
+Aug,2021,Richmond,VA,2,87,0.022
+Sep,2021,Richmond,VA,12,76,0.136
+Oct,2021,Richmond,VA,2,96,0.020
+Nov,2021,Richmond,VA,7,78,0.082
+Dec,2021,Richmond,VA,9,82,0.099
+Jan,2022,Richmond,VA,5,113,0.042
+Feb,2022,Richmond,VA,2,80,0.024
+Mar,2022,Richmond,VA,6,82,0.068
+Apr,2022,Richmond,VA,4,103,0.037
+May,2022,Richmond,VA,7,101,0.065
+Jun,2022,Richmond,VA,3,83,0.035
+Jul,2022,Richmond,VA,10,99,0.092
+Aug,2022,Richmond,VA,11,88,0.111
+Sep,2022,Richmond,VA,5,76,0.062
+Oct,2022,Richmond,VA,8,80,0.091
+Nov,2022,Richmond,VA,25,100,0.200
+Dec,2022,Richmond,VA,22,94,0.190
+Jan,2019,San Diego,CA,14,457,0.030
+Feb,2019,San Diego,CA,16,374,0.041
+Mar,2019,San Diego,CA,18,434,0.040
+Apr,2019,San Diego,CA,16,390,0.039
+May,2019,San Diego,CA,12,402,0.029
+Jun,2019,San Diego,CA,16,360,0.043
+Jul,2019,San Diego,CA,26,412,0.059
+Aug,2019,San Diego,CA,15,430,0.034
+Sep,2019,San Diego,CA,12,452,0.026
+Oct,2019,San Diego,CA,12,381,0.031
+Nov,2019,San Diego,CA,15,474,0.031
+Dec,2019,San Diego,CA,22,415,0.050
+Jan,2020,San Diego,CA,13,414,0.030
+Feb,2020,San Diego,CA,14,405,0.033
+Mar,2020,San Diego,CA,24,386,0.059
+Apr,2020,San Diego,CA,10,375,0.026
+May,2020,San Diego,CA,9,407,0.022
+Jun,2020,San Diego,CA,32,426,0.070
+Jul,2020,San Diego,CA,17,391,0.042
+Aug,2020,San Diego,CA,15,357,0.040
+Sep,2020,San Diego,CA,24,361,0.062
+Oct,2020,San Diego,CA,26,424,0.058
+Nov,2020,San Diego,CA,14,429,0.032
+Dec,2020,San Diego,CA,25,482,0.049
+Jan,2021,San Diego,CA,12,507,0.023
+Feb,2021,San Diego,CA,15,476,0.031
+Mar,2021,San Diego,CA,6,472,0.013
+Apr,2021,San Diego,CA,17,485,0.034
+May,2021,San Diego,CA,13,534,0.024
+Jun,2021,San Diego,CA,12,491,0.024
+Jul,2021,San Diego,CA,23,471,0.047
+Aug,2021,San Diego,CA,29,450,0.061
+Sep,2021,San Diego,CA,15,526,0.028
+Oct,2021,San Diego,CA,37,637,0.055
+Nov,2021,San Diego,CA,20,498,0.039
+Dec,2021,San Diego,CA,15,484,0.030
+Jan,2022,San Diego,CA,12,522,0.022
+Feb,2022,San Diego,CA,20,457,0.042
+Mar,2022,San Diego,CA,14,479,0.028
+Apr,2022,San Diego,CA,19,494,0.037
+May,2022,San Diego,CA,49,469,0.095
+Jun,2022,San Diego,CA,45,486,0.085
+Jul,2022,San Diego,CA,59,498,0.106
+Aug,2022,San Diego,CA,50,451,0.100
+Sep,2022,San Diego,CA,88,486,0.153
+Oct,2022,San Diego,CA,74,572,0.115
+Nov,2022,San Diego,CA,53,451,0.105
+Dec,2022,San Diego,CA,46,509,0.083
+Jan,2019,San Francisco,CA,12,326,0.036
+Feb,2019,San Francisco,CA,7,336,0.020
+Mar,2019,San Francisco,CA,6,339,0.017
+Apr,2019,San Francisco,CA,13,348,0.036
+May,2019,San Francisco,CA,8,350,0.022
+Jun,2019,San Francisco,CA,16,373,0.041
+Jul,2019,San Francisco,CA,15,341,0.042
+Aug,2019,San Francisco,CA,5,360,0.014
+Sep,2019,San Francisco,CA,10,401,0.024
+Oct,2019,San Francisco,CA,17,347,0.047
+Nov,2019,San Francisco,CA,11,400,0.027
+Dec,2019,San Francisco,CA,12,396,0.029
+Jan,2020,San Francisco,CA,13,400,0.031
+Feb,2020,San Francisco,CA,9,389,0.023
+Mar,2020,San Francisco,CA,14,407,0.033
+Apr,2020,San Francisco,CA,7,433,0.016
+May,2020,San Francisco,CA,13,494,0.026
+Jun,2020,San Francisco,CA,7,549,0.013
+Jul,2020,San Francisco,CA,7,641,0.011
+Aug,2020,San Francisco,CA,20,525,0.037
+Sep,2020,San Francisco,CA,12,429,0.027
+Oct,2020,San Francisco,CA,7,529,0.013
+Nov,2020,San Francisco,CA,10,580,0.017
+Dec,2020,San Francisco,CA,13,589,0.022
+Jan,2021,San Francisco,CA,17,542,0.030
+Feb,2021,San Francisco,CA,16,450,0.034
+Mar,2021,San Francisco,CA,15,445,0.033
+Apr,2021,San Francisco,CA,9,444,0.020
+May,2021,San Francisco,CA,10,500,0.020
+Jun,2021,San Francisco,CA,9,449,0.020
+Jul,2021,San Francisco,CA,9,485,0.018
+Aug,2021,San Francisco,CA,18,501,0.035
+Sep,2021,San Francisco,CA,8,456,0.017
+Oct,2021,San Francisco,CA,10,586,0.017
+Nov,2021,San Francisco,CA,15,510,0.029
+Dec,2021,San Francisco,CA,9,564,0.016
+Jan,2022,San Francisco,CA,8,546,0.014
+Feb,2022,San Francisco,CA,13,576,0.022
+Mar,2022,San Francisco,CA,14,477,0.029
+Apr,2022,San Francisco,CA,14,440,0.031
+May,2022,San Francisco,CA,11,454,0.024
+Jun,2022,San Francisco,CA,11,490,0.022
+Jul,2022,San Francisco,CA,15,484,0.030
+Aug,2022,San Francisco,CA,19,503,0.036
+Sep,2022,San Francisco,CA,31,559,0.053
+Oct,2022,San Francisco,CA,22,565,0.037
+Nov,2022,San Francisco,CA,39,510,0.071
+Dec,2022,San Francisco,CA,69,445,0.134
+Jan,2019,Seattle,WA,0,292,0.000
+Feb,2019,Seattle,WA,0,240,0.000
+Mar,2019,Seattle,WA,0,271,0.000
+Apr,2019,Seattle,WA,1,95,0.010
+May,2019,Seattle,WA,7,343,0.020
+Jun,2019,Seattle,WA,8,306,0.025
+Jul,2019,Seattle,WA,2,360,0.006
+Aug,2019,Seattle,WA,6,379,0.016
+Sep,2019,Seattle,WA,6,349,0.017
+Oct,2019,Seattle,WA,12,373,0.031
+Nov,2019,Seattle,WA,8,374,0.021
+Dec,2019,Seattle,WA,12,311,0.037
+Jan,2020,Seattle,WA,6,357,0.017
+Feb,2020,Seattle,WA,9,265,0.033
+Mar,2020,Seattle,WA,5,285,0.017
+Apr,2020,Seattle,WA,7,349,0.020
+May,2020,Seattle,WA,8,270,0.029
+Jun,2020,Seattle,WA,5,357,0.014
+Jul,2020,Seattle,WA,10,435,0.022
+Aug,2020,Seattle,WA,14,444,0.031
+Sep,2020,Seattle,WA,11,485,0.022
+Oct,2020,Seattle,WA,14,513,0.027
+Nov,2020,Seattle,WA,14,430,0.032
+Dec,2020,Seattle,WA,17,443,0.037
+Jan,2021,Seattle,WA,12,416,0.028
+Feb,2021,Seattle,WA,15,352,0.041
+Mar,2021,Seattle,WA,9,365,0.024
+Apr,2021,Seattle,WA,12,339,0.034
+May,2021,Seattle,WA,17,335,0.048
+Jun,2021,Seattle,WA,16,392,0.039
+Jul,2021,Seattle,WA,14,380,0.036
+Aug,2021,Seattle,WA,19,453,0.040
+Sep,2021,Seattle,WA,20,534,0.036
+Oct,2021,Seattle,WA,14,567,0.024
+Nov,2021,Seattle,WA,19,486,0.038
+Dec,2021,Seattle,WA,16,501,0.031
+Jan,2022,Seattle,WA,14,525,0.026
+Feb,2022,Seattle,WA,17,513,0.032
+Mar,2022,Seattle,WA,14,540,0.025
+Apr,2022,Seattle,WA,10,462,0.021
+May,2022,Seattle,WA,15,546,0.027
+Jun,2022,Seattle,WA,15,519,0.028
+Jul,2022,Seattle,WA,51,498,0.093
+Aug,2022,Seattle,WA,43,554,0.072
+Sep,2022,Seattle,WA,85,486,0.149
+Oct,2022,Seattle,WA,174,510,0.254
+Nov,2022,Seattle,WA,184,459,0.286
+Dec,2022,Seattle,WA,196,434,0.311
+Jan,2019,Tucson,AZ,14,211,0.062
+Feb,2019,Tucson,AZ,12,198,0.057
+Mar,2019,Tucson,AZ,8,162,0.047
+Apr,2019,Tucson,AZ,10,136,0.068
+May,2019,Tucson,AZ,6,153,0.038
+Jun,2019,Tucson,AZ,4,143,0.027
+Jul,2019,Tucson,AZ,8,136,0.056
+Aug,2019,Tucson,AZ,8,198,0.039
+Sep,2019,Tucson,AZ,9,163,0.052
+Oct,2019,Tucson,AZ,8,160,0.048
+Nov,2019,Tucson,AZ,5,165,0.029
+Dec,2019,Tucson,AZ,12,193,0.059
+Jan,2020,Tucson,AZ,9,160,0.053
+Feb,2020,Tucson,AZ,5,149,0.032
+Mar,2020,Tucson,AZ,4,132,0.029
+Apr,2020,Tucson,AZ,7,120,0.055
+May,2020,Tucson,AZ,11,140,0.073
+Jun,2020,Tucson,AZ,4,128,0.030
+Jul,2020,Tucson,AZ,11,119,0.085
+Aug,2020,Tucson,AZ,11,120,0.084
+Sep,2020,Tucson,AZ,10,146,0.064
+Oct,2020,Tucson,AZ,9,156,0.055
+Nov,2020,Tucson,AZ,9,155,0.055
+Dec,2020,Tucson,AZ,13,140,0.085
+Jan,2021,Tucson,AZ,10,154,0.061
+Feb,2021,Tucson,AZ,4,138,0.028
+Mar,2021,Tucson,AZ,11,138,0.074
+Apr,2021,Tucson,AZ,7,133,0.050
+May,2021,Tucson,AZ,12,149,0.075
+Jun,2021,Tucson,AZ,8,145,0.052
+Jul,2021,Tucson,AZ,8,160,0.048
+Aug,2021,Tucson,AZ,7,188,0.036
+Sep,2021,Tucson,AZ,14,186,0.070
+Oct,2021,Tucson,AZ,13,225,0.055
+Nov,2021,Tucson,AZ,9,195,0.044
+Dec,2021,Tucson,AZ,14,179,0.073
+Jan,2022,Tucson,AZ,14,191,0.068
+Feb,2022,Tucson,AZ,9,144,0.059
+Mar,2022,Tucson,AZ,13,175,0.069
+Apr,2022,Tucson,AZ,15,163,0.084
+May,2022,Tucson,AZ,11,259,0.041
+Jun,2022,Tucson,AZ,17,232,0.068
+Jul,2022,Tucson,AZ,13,273,0.045
+Aug,2022,Tucson,AZ,12,328,0.035
+Sep,2022,Tucson,AZ,10,192,0.050
+Oct,2022,Tucson,AZ,27,185,0.127
+Nov,2022,Tucson,AZ,31,251,0.110
+Dec,2022,Tucson,AZ,36,221,0.140
+Jan,2022,Washington DC,NA,25,288,0.080
+Feb,2022,Washington DC,NA,21,210,0.091
+Mar,2022,Washington DC,NA,34,221,0.133
+Apr,2022,Washington DC,NA,21,245,0.079
+May,2022,Washington DC,NA,17,239,0.066
+Jun,2022,Washington DC,NA,26,291,0.082
+Jul,2022,Washington DC,NA,31,281,0.099
+Aug,2022,Washington DC,NA,37,280,0.117
+Sep,2022,Washington DC,NA,32,295,0.098
+Oct,2022,Washington DC,NA,62,274,0.185
+Nov,2022,Washington DC,NA,91,275,0.249
+Dec,2022,Washington DC,NA,150,293,0.339
+Jan,2019,Wichita,KS,16,273,0.055
+Feb,2019,Wichita,KS,9,200,0.043
+Mar,2019,Wichita,KS,13,223,0.055
+Apr,2019,Wichita,KS,11,261,0.040
+May,2019,Wichita,KS,18,305,0.056
+Jun,2019,Wichita,KS,11,260,0.041
+Jul,2019,Wichita,KS,10,272,0.035
+Aug,2019,Wichita,KS,17,284,0.056
+Sep,2019,Wichita,KS,10,283,0.034
+Oct,2019,Wichita,KS,7,241,0.028
+Nov,2019,Wichita,KS,11,203,0.051
+Dec,2019,Wichita,KS,14,240,0.055
+Jan,2020,Wichita,KS,10,228,0.042
+Feb,2020,Wichita,KS,14,221,0.060
+Mar,2020,Wichita,KS,19,230,0.076
+Apr,2020,Wichita,KS,6,192,0.030
+May,2020,Wichita,KS,11,205,0.051
+Jun,2020,Wichita,KS,9,250,0.035
+Jul,2020,Wichita,KS,9,239,0.036
+Aug,2020,Wichita,KS,21,232,0.083
+Sep,2020,Wichita,KS,20,281,0.066
+Oct,2020,Wichita,KS,14,289,0.046
+Nov,2020,Wichita,KS,23,236,0.089
+Dec,2020,Wichita,KS,16,287,0.053
+Jan,2021,Wichita,KS,18,303,0.056
+Feb,2021,Wichita,KS,12,256,0.045
+Mar,2021,Wichita,KS,19,244,0.072
+Apr,2021,Wichita,KS,7,224,0.030
+May,2021,Wichita,KS,5,217,0.023
+Jun,2021,Wichita,KS,9,242,0.036
+Jul,2021,Wichita,KS,7,252,0.027
+Aug,2021,Wichita,KS,6,253,0.023
+Sep,2021,Wichita,KS,6,200,0.029
+Oct,2021,Wichita,KS,10,247,0.039
+Nov,2021,Wichita,KS,8,220,0.035
+Dec,2021,Wichita,KS,6,208,0.028
+Jan,2022,Wichita,KS,10,247,0.039
+Feb,2022,Wichita,KS,9,170,0.050
+Mar,2022,Wichita,KS,16,174,0.084
+Apr,2022,Wichita,KS,13,185,0.066
+May,2022,Wichita,KS,12,226,0.050
+Jun,2022,Wichita,KS,19,232,0.076
+Jul,2022,Wichita,KS,17,208,0.076
+Aug,2022,Wichita,KS,5,226,0.022
+Sep,2022,Wichita,KS,17,199,0.079
+Oct,2022,Wichita,KS,29,237,0.109
+Nov,2022,Wichita,KS,15,240,0.059
+Dec,2022,Wichita,KS,17,200,0.078

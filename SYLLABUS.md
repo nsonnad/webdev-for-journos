@@ -191,12 +191,13 @@ Grading for individual assignments is based on the quality of the finished work:
 - freeCodeCamp – [Record Collection](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/record-collection)
 
 
-### week 7 – Data-driven documents
+### week 7 – D3 chart project 1
 
 #### Class outcomes
 
-- Using the JavaScript library d3 to generate webpage content from data
-- Understanding how JavaScript can turn data into documents
+- Intro to core data visualization concepts
+- Exploring the possibilities of visualization with D3
+- Adapting existing open source code to your data
 
 #### Class prep
 
@@ -207,62 +208,16 @@ Grading for individual assignments is based on the quality of the finished work:
 - freeCodeCamp – [Add Inline Styling to Elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-inline-styling-to-elements)
 - freeCodeCamp – [Change Styles Based on Data](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-styles-based-on-data)
 
-
-### week 8 – Table assignment workshop
-
-#### Class outcomes
-
-- Work on our first project!
-
-#### Class prep
-
-- Prepare data for your assignment
-
-
-### week 9 – Intro: Visualizing data on the web
-
-#### Class outcomes
-
-- Intro to core data visualization concepts
-- Intro to SVG
-- Exploring the possibilities of visualization with D3
-- Explanation of the rest of our semester
-
-#### Class prep
-
-- Assignment 1 due
-
----
-
-### No class
-
----
-
-## Dataviz with D3: Project-based work
-
-### week 10
-
-#### Class outcomes
-
-- Initial setup and planning for your final project
-- Understanding how to get from idea to finished product with D3
-
-#### Class prep
-
-- freeCodeCamp – [Add classes with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-classes-with-d3)
-- freeCodeCamp – [Update the height of an element dynamically](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/update-the-height-of-an-element-dynamically)
-- freeCodeCamp – [Change the presentation of a bar chart](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-presentation-of-a-bar-chart)
-
-### week 11
+### week 8 – D3 chart project 2
 
 #### Class outcomes
 
 - Understanding how to work with SVG
-- Adapting existing open source code to your projects
-- Project work
+- Continuing on our D3 chart project
 
 #### Class prep
 
+- freeCodeCamp – [Add classes with D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-classes-with-d3)
 - freeCodeCamp – [Learn about SVG in D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/learn-about-svg-in-d3)
 - freeCodeCamp – [Display shapes with SVG](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/display-shapes-with-svg)
 - freeCodeCamp – [Create a bar for each data point](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/create-a-bar-for-each-data-point-in-the-set)
@@ -270,27 +225,12 @@ Grading for individual assignments is based on the quality of the finished work:
 - freeCodeCamp – [Dynamically change the height of each bar](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/dynamically-change-the-height-of-each-bar)
 - freeCodeCamp – [Invert SVG elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/invert-svg-elements)
 
-### week 12
-
-#### Class outcomes
-
-- Understanding the importance of annotation to a good visualization
-- Different approaches to annotation
-- Project work
-
-#### Class prep
-
-- freeCodeCamp – [Change the color of an SVG element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/change-the-color-of-an-svg-element)
-- freeCodeCamp – [Add labels to D3 elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-labels-to-d3-elements)
-- freeCodeCamp – [Style D3 labels](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/style-d3-labels)
-- freeCodeCamp – [Add a hover effect to a D3 element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-hover-effect-to-a-d3-element)
-- freeCodeCamp – [Add a tooltip to a D3 element](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-a-tooltip-to-a-d3-element)
-
-### week 13
+### week 9 – D3 chart project 3
 
 #### Class outcomes
 
 - Thinking about how D3 works: scatterplots vs bar charts
+- SVG coordinates, `circles`, `rects`, etc
 - Project work
 
 #### Class prep
@@ -299,11 +239,19 @@ Grading for individual assignments is based on the quality of the finished work:
 - freeCodeCamp – [Add attributes to the circle elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-attributes-to-the-circle-elements)
 - freeCodeCamp – [Add labels to scatterplot circles](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-labels-to-scatter-plot-circles)
 
+---
 
-### week 14
+### Spring break
+
+---
+
+## Dataviz with D3: Your dataviz story
+
+### week 10
 
 #### Class outcomes
 
+- Initial setup and planning for your final project
 - Understanding D3 scales, and their importance
 - Project work
 
@@ -315,6 +263,38 @@ Grading for individual assignments is based on the quality of the finished work:
 - freeCodeCamp – [Use dynamic scales](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-dynamic-scales)
 - freeCodeCamp – [Use a pre-defined scale to place elements](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/use-a-pre-defined-scale-to-place-elements)
 - freeCodeCamp – [Add axes to a visualization](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/add-axes-to-a-visualization)
+
+### week 11
+
+#### Class outcomes
+
+#### Class prep
+
+- TBD
+
+### week 12
+
+#### Class outcomes
+
+#### Class prep
+
+- TBD
+
+### week 13
+
+#### Class outcomes
+
+#### Class prep
+
+- TBD
+
+### week 14
+
+#### Class outcomes
+
+#### Class prep
+
+- TBD
 
 ### week 15
 
