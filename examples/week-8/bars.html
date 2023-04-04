@@ -8,29 +8,33 @@
   <title>svg bars</title>
 </head>
 <body>
+  <h2>Title</h2>
+  <div class="bar-chart"></div>
   <script>
-    const dataset = [12, 31, 22, 17, 25, 18, 29, 14, 9];
+    const dataset = [12, 24, 22, 17, 25, 18, 29, 14, 9];
 
     const w = 500;
     const h = 100;
 
-    const svg = d3.select("body")
+    const svg = d3.select(".bar-chart")
                   .append("svg")
                   .attr("width", w)
                   .attr("height", h);
 
+    // create a `rect` for each number in the dataset
+    // make `rect` size based on data
+    // place rects next to each other
     svg.selectAll("rect")
        .data(dataset)
        .enter()
        .append("rect")
-       .attr("x", (d, i) => i * 30)
-       .attr("y", (d, i) => {
-         // Add your code below this line
-        return h - d * 3;
-         // Add your code above this line
-       })
+       .attr("height", (d, i) => d * 4)
        .attr("width", 25)
-       .attr("height", (d, i) => 3 * d);
+       .attr("x", (d, i) => i * 30 )
+       .attr("y", (d, i) => {
+         return h - d * 4;
+       })
+// 
   </script>
 </body>
 </html>
