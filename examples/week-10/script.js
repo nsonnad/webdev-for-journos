@@ -13,16 +13,9 @@ let svg = d3.select("#dataviz")
 
 // linearScale
 
-// using d3.max, d3.min, d3.extent to set domain
-
-// linear scale with color as range
+// timeScale
 
 // scaleBand
 
 // use d3 to draw axes based on the scales
 // svg.append("g").call(d3.axisBottom(xScale))
-
-// render your marks, placing them with scales
-svg.selectAll("circle")
-    .data(dataset)
-    .join("circle")
