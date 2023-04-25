@@ -270,7 +270,7 @@ Grading for individual assignments is based on the quality of the finished work:
 
 #### Class prep
 
-- TBD
+- Project work
 
 ### week 12
 
@@ -278,7 +278,7 @@ Grading for individual assignments is based on the quality of the finished work:
 
 #### Class prep
 
-- TBD
+- Project work
 
 ### week 13
 
@@ -286,7 +286,7 @@ Grading for individual assignments is based on the quality of the finished work:
 
 #### Class prep
 
-- TBD
+- Project work
 
 ### week 14
 
@@ -294,7 +294,7 @@ Grading for individual assignments is based on the quality of the finished work:
 
 #### Class prep
 
-- TBD
+- Project work
 
 ### week 15
 
