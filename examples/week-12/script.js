@@ -48,7 +48,7 @@ d3.csv("https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_data
         .y(function(d) { return y(d.value) })
         )
 
-    svg.selectAll("circle")
+    svg.append("g").selectAll("circle")
        .data(data)
        .join("circle")
        .attr("r", 2)
